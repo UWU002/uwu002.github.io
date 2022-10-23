@@ -7,8 +7,8 @@ Estudiante aplicado con ganas de aprender. Mi objetivo en estas prácticas seria
 
 ### *Contacto*
 
-+ Correo electrónico: _damian.molins@gamil.com_
-+ Telefono de contacto: _+34 636 873 106_
+- Correo electrónico: _damian.molins@gamil.com_
+- Telefono de contacto: _+34 636 873 106_
 
 
 ## **Estudios**
@@ -24,3 +24,19 @@ Estudiante aplicado con ganas de aprender. Mi objetivo en estas prácticas seria
 | Hípica Ruta de la Cerdaña: Pister  | El trabajo consistía en montar los obstáculos para una carrera y planificar el circuito.  |Julio 2020 | Agosto 2020       |
 | Cartera de Inversiones. CM – Ayudante de Oficina | El trabajo consistía en tareas varias como la transferencia y digitalización de datos y la revisión de equipos antiguos.  | 2020        | 2021       |
 | Deleito – Ayudante de Cocina//Caja | El trabajo era en un stand temporal en el Ceranya Music Festival, e iba cambiando entre los puestos de ayudar en la cocina, tomar pedidos y servir a los clientes/cobrar. | Agosto 2022 | Septiembre 2022  |
+
+
+
+## Aficiones
+- Snowboard
+- Bici
+- Videojuegos
+- Nuevas Tecnologias
+
+## Idiomas
+- Ingles
+- Castellano
+- Catalan
+
+
+
