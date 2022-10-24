@@ -13,8 +13,6 @@ Estudiante aplicado con ganas de aprender. Mi objetivo en estas prácticas seria
 
 ## **Estudios**
 
-|Tipo                 | Centro                |Año Inicio | Año Final|
-
 |E.S.O                | Montserrat, Barcelona | 2016      | 2020     |
 
 |E.S.O                | Ecolint, Ginebra      | 2014      | 2020     |
@@ -22,8 +20,6 @@ Estudiante aplicado con ganas de aprender. Mi objetivo en estas prácticas seria
 |Formacion Profesiona | IFP, Hospitalet       | 2020      | 2023     |
 
 ## **Experiencia Laboral**
-
-| Sitio  | Explicacion                      | Año de inicio | Año de finalización |
 
 | Hípica Ruta de la Cerdaña: Pister  | El trabajo consistía en montar los obstáculos para una carrera y planificar el circuito.  |Julio 2020 | Agosto 2020       |
 
