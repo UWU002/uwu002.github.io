@@ -39,4 +39,15 @@ Estudiante aplicado con ganas de aprender. Mi objetivo en estas prácticas seria
 - Catalan
 
 
+<tr>
+
+    <td>Celda 1</td>
+
+    <td>Celda 2</td>
+
+    <td>Celda 3</td>
+
+  </tr>
+
+
 
