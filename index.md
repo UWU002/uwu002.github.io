@@ -12,6 +12,7 @@ Estudiante aplicado con ganas de aprender. Mi objetivo en estas prácticas seria
 
 
 ## **Estudios**
+
 |Tipo                 | Centro                |Año Inicio | Año Final|
 
 |E.S.O                | Montserrat, Barcelona | 2016      | 2020     |
