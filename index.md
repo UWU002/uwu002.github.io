@@ -12,11 +12,12 @@ Estudiante aplicado con ganas de aprender. Mi objetivo en estas prácticas seria
 
 
 ## **Estudios**
-|Tipo  | Centro | Año de Inicio | Año de finalizacion|
-|------|--------|---------------|---------------------|
-|E.S.O |Montserrat, Barcelona |2016| 2020|
-|E.S.O |Ecolint, Ginebra |2014| 2020|
-|Formacion Profesiona |IFP, Hospitalet|2020| 2023|
+
+|E.S.O ||| Montserrat, Barcelona ||| 2016 ||| 2020|
+
+|E.S.O ||| Ecolint, Ginebra ||| 2014 ||| 2020|
+
+|Formacion Profesiona ||| IFP, Hospitalet ||| 2020 ||| 2023|
 
 ## **Experiencia Laboral**
 | Sitio  | Explicacion                      | Año de inicio | Año de finalización |
