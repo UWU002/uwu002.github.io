@@ -1,4 +1,4 @@
-# Dmián Molins Redmond 
+# Damián Molins Redmond 
 
 <img src="FotoCurriculum(Github).png" width="200" height="200">
 
