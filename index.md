@@ -7,8 +7,8 @@ Estudiante aplicado con ganas de aprender. Mi objetivo en estas prácticas seria
 
 ### *Contacto*
 
-- Correo electrónico: _damian.molins@gamil.com_
-- Telefono de contacto: _+34 636 873 106_
+- Correo electrónico: _dmolins@gamil.com_
+- Telefono de contacto: _+34 123 654 879_
 
 
 ## **Estudios**
