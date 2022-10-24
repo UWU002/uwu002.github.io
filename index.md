@@ -1,6 +1,6 @@
 # Dmián Molins Redmond 
 
-<img src="https://github.com/UWU002/uwu002.github.io/blob/main/FotoCurriculum(Github).png" width="200" height="200">
+<img src="FotoCurriculum(Github).png" width="200" height="200">
 
 ### **Sobre mi**
 Estudiante aplicado con ganas de aprender. Mi objetivo en estas prácticas seria sobre todo ganar más experiencia trabajando en un entorno profesional. Tengo habilidad para los idiomas y se adaptarme rápidamente en situaciones difíciles.  
